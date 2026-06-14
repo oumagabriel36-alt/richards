@@ -1,17 +1,16 @@
-# FAITHSTRENTHFAITH
-Personal brand website KOCHOLA RICK featuring bodybuilding journey, transport and moving services, Christian motivation content and music inspiration. 
+ 
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gabriel O. Ochibo | Strength • Service • Faith</title>
+    <title>KOCHOLA FIT | Strength • Service • Faith</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
 <header>
-    <h1>KOCHOLA RICK</h1>
+    <h1>KOCHOLA FIT</h1>
     <p>Strength • Service • Faith</p>
 </header>
 
@@ -25,15 +24,15 @@ Personal brand website KOCHOLA RICK featuring bodybuilding journey, transport an
 </nav>
 
 <section class="hero">
-    <h2>Welcome to My World</h2>
+    <h2>Welcome to KOCHOLA FIT</h2>
     <p>Bodybuilder | Transport Professional | Christian Motivator | Content Creator</p>
-    <button onclick="welcomeMessage()">Connect With Me</button>
+    <button onclick="welcomeMessage()">Connect With Us</button>
 </section>
 
 <section id="about">
     <h2>About Me</h2>
     <p>
-        My name is KOCHOLA RICK. I am passionate about bodybuilding,
+        My name is RICHARD OCHOLA. I am passionate about bodybuilding,
         transportation services, Christian motivation, and inspiring people
         through social media content.
     </p>
@@ -101,7 +100,8 @@ Personal brand website KOCHOLA RICK featuring bodybuilding journey, transport an
 <section id="contact">
     <h2>Contact Me</h2>
     <p>Phone: 0113388227</p>
-
+    <p>Phone 0110275905</p>
+    
     <button onclick="contactMe()">
         Contact via WhatsApp
     </button>
