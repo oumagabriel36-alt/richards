@@ -1,4 +1,4 @@
-# richards
+# KOCHOLA RICK
 Personal brand website Richard Fitness featuring bodybuilding journey, transport and moving services, Christian motivation content and music inspiration. 
 <!DOCTYPE html>
 <html lang="en">
@@ -11,7 +11,7 @@ Personal brand website Richard Fitness featuring bodybuilding journey, transport
 <body>
 
 <header>
-    <h1>Gabriel O. Ochibo</h1>
+    <h1>KOCHOLA RICK</h1>
     <p>Strength • Service • Faith</p>
 </header>
 
@@ -33,7 +33,7 @@ Personal brand website Richard Fitness featuring bodybuilding journey, transport
 <section id="about">
     <h2>About Me</h2>
     <p>
-        My name is Gabriel O. Ochibo. I am passionate about bodybuilding,
+        My name is KOCHOLA RICK. I am passionate about bodybuilding,
         transportation services, Christian motivation, and inspiring people
         through social media content.
     </p>
@@ -108,7 +108,7 @@ Personal brand website Richard Fitness featuring bodybuilding journey, transport
 </section>
 
 <footer>
-    <p>© 2026 Gabriel O. Ochibo | Strength • Service • Faith</p>
+    <p>© 2026 KOCHOLA RICK | Strength • Service • Faith</p>
 </footer>
 
 <script src="script.js"></script>
