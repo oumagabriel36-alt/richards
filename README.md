@@ -1,4 +1,4 @@
-# KOCHOLA RICK
+# FAITHSTRENTHFAITH
 Personal brand website KOCHOLA RICK featuring bodybuilding journey, transport and moving services, Christian motivation content and music inspiration. 
 <!DOCTYPE html>
 <html lang="en">
