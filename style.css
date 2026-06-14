@@ -1,98 +1,77 @@
-*{
-    margin:0;
-    padding:0;
-    box-sizing:border-box;
+/* General Page Styling */
+body {
+    background-color: #4B0082; /* Deep Purple */
+    color: #000000; /* Black text */
+    font-family: 'Poppins', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
 }
 
-body{
-    background:#111;
-    color:white;
-    font-family:Arial, sans-serif;
-    line-height:1.6;
+/* Main Headings */
+h1, h2 {
+    color: #C9A227; /* Dark Gold / Dark Yellow */
+    font-weight: 700;
+    text-align: center;
 }
 
-header{
-    background:#000;
-    text-align:center;
-    padding:30px;
+/* Subheadings */
+h3, h4, h5 {
+    color: #B0B0B0; /* Grey */
+    font-weight: 600;
 }
 
-header h1{
-    color:gold;
-    font-size:2.5rem;
+/* Paragraphs */
+p {
+    color: #000000;
 }
 
-nav{
-    background:#222;
-    text-align:center;
-    padding:15px;
+/* Navigation */
+nav {
+    background-color: #3A0066;
+    padding: 15px;
+    text-align: center;
 }
 
-nav a{
-    color:white;
-    text-decoration:none;
-    margin:10px;
-    font-weight:bold;
+nav a {
+    color: #C9A227;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
 }
 
-nav a:hover{
-    color:gold;
+nav a:hover {
+    color: #FFFFFF;
 }
 
-.hero{
-    text-align:center;
-    padding:80px 20px;
+/* Cards / Content Boxes */
+.card {
+    background-color: #F5F5F5;
+    border-radius: 12px;
+    padding: 20px;
+    margin: 20px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
 }
 
-.hero h2{
-    color:gold;
-    margin-bottom:15px;
+/* Buttons */
+button {
+    background-color: #C9A227;
+    color: #000000;
+    border: none;
+    padding: 12px 24px;
+    border-radius: 8px;
+    font-weight: bold;
+    cursor: pointer;
 }
 
-section{
-    padding:40px 20px;
+button:hover {
+    transform: scale(1.05);
 }
 
-.card{
-    background:#1c1c1c;
-    padding:20px;
-    border-radius:10px;
-    margin-top:15px;
-}
-
-button{
-    background:gold;
-    color:black;
-    border:none;
-    padding:12px 20px;
-    border-radius:6px;
-    font-weight:bold;
-    cursor:pointer;
-}
-
-button:hover{
-    transform:scale(1.05);
-}
-
-.social-links{
-    display:flex;
-    justify-content:center;
-    flex-wrap:wrap;
-    gap:10px;
-}
-
-.social-links a{
-    background:gold;
-    color:black;
-    padding:10px 15px;
-    text-decoration:none;
-    border-radius:5px;
-    font-weight:bold;
-}
-
-footer{
-    background:#000;
-    text-align:center;
-    padding:20px;
-    margin-top:30px;
+/* Footer */
+footer {
+    background-color: #3A0066;
+    color: #B0B0B0;
+    text-align: center;
+    padding: 20px;
 }
